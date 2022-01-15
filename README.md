@@ -22,16 +22,16 @@ Once the erroneous test data for T.H.S. 9th graders was removed, the following c
 
 How is the district summary affected?
 
-_There was a reduction across the board in passing math, reading, and overall passing. The observed differences were all reductions, however they were small in size. Passing math was reduced by .2%~, passing reading was reduced by .15%~ and overall passing saw a reduction of 0.32%~
-_
+There was a reduction across the board in passing math, reading, and overall passing. The observed differences were all reductions, however they were small in size. Passing math was reduced by .2%~ passing reading was reduced by .15%~ and overall passing saw a reduction of 0.32%~
+
 How is the school summary affected?
 
-_The only impacted sections of the school summary were specific to THS. THS overall math score went down slightly, and their reading score went up slightly. Howveer, the % passing math and reading both went down slightly. Lastly the overall passing % was reduced by .31%~ 
-_
+The only impacted sections of the school summary were specific to THS. THS overall math score went down slightly, and their reading score went up slightly. Howveer, the % passing math and reading both went down slightly. Lastly the overall passing % was reduced by .31%~ 
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-_The effect on the overall data was very small. THS remained in the second top performing school position. However Griffin High School is now extremely close to passing THS for that position. 
-_
+The effect on the overall data was very small. THS remained in the second top performing school position. However Griffin High School is now extremely close to passing THS for that position. 
+
 
 
 How does replacing the ninth-grade scores affect the following.  
