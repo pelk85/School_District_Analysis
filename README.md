@@ -32,19 +32,19 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 -The effect on the overall data was very small. THS remained in the second top performing school position. However Griffin High School is now extremely close to passing THS for that position. 
 
-How does replacing the ninth-grade scores affect the following:
+How does replacing the ninth-grade scores affect the following
 
 Math and reading scores by grade
--Since this summary is done at the per school level, there is no impact to other schools, only to the 9th grade level of THS as it will now display 'NaN'
+Since this summary is done at the per school level, there is no impact to other schools, only to the 9th grade level of THS as it will now display 'NaN'
 
 Scores by school spending
--For the spending rnage $630-644, where THS falls, the % passing reading and % overall passing were both reduced by .1%, no other impact was observed. 
+For the spending rnage $630-644, where THS falls, the % passing reading and % overall passing were both reduced by .1%, no other impact was observed. 
 
 Scores by school size
--There was no impact observed. 
+There was no impact observed. 
 
 Scores by school type
--There was no impact observed. 
+There was no impact observed. 
 
 ## Summary
 
