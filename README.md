@@ -43,6 +43,7 @@ Scores by school size
 There was no impact observed. 
 
 Scores by school type
+
 There was no impact observed. 
 
 ## Summary
